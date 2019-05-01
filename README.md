@@ -17,3 +17,7 @@ Data available- https://www.kaggle.com/c/dog-breed-identification/data
 ## Evaluation
 * metric used for evaluation is multi class log loss
 * the submission file should contain the id of the test image as well as the predicted probability for each of the 120 breeds for a given image
+
+## Training
+Have trained a basic CNN for 3 epochs. Have tried to train the model for more epochs locally, but I'm not able to on my current machine. Plan is to use SageMaker
+to build a advanced model. 
