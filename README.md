@@ -21,3 +21,7 @@ Data available- https://www.kaggle.com/c/dog-breed-identification/data
 ## Training
 Have trained a basic CNN for 3 epochs. Have tried to train the model for more epochs locally, but I'm not able to on my current machine. Plan is to use SageMaker
 to build a advanced model. 
+
+At the AWS Summit 2019 there was a demo of "script mode" on a SageMaker Notebook instance. It showed the ability of being able
+to train a custom Keras model, defined in a Python script, using a SageMaker training instance. The plan is it use this
+to be able to train the model for more epochs.
