@@ -24,5 +24,10 @@ to build a advanced model.
 
 At the AWS Summit 2019 there was a demo of "script mode" on a SageMaker Notebook instance. It showed the ability of being able
 to train a custom Keras model, defined in a Python script, using a SageMaker training instance. The plan is it use this
-to be able to train the model for more epochs. AWS [example](https://github.com/aws-samples/amazon-sagemaker-script-mode), [example from summit breakout session](https://gitlab.com/juliensimon/dlnotebooks)
-  on script mode.
+to be able to train the model for more epochs. 
+
+Script mode examples:
+
+* AWS [example](https://github.com/aws-samples/amazon-sagemaker-script-mode)
+
+* [example from summit breakout session](https://gitlab.com/juliensimon/dlnotebooks)
