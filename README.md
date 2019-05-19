@@ -28,6 +28,6 @@ to be able to train the model for more epochs.
 
 Script mode examples:
 
-* AWS [example](https://github.com/aws-samples/amazon-sagemaker-script-mode)
+* [AWS example](https://github.com/aws-samples/amazon-sagemaker-script-mode)
 
 * [example from summit breakout session](https://gitlab.com/juliensimon/dlnotebooks)
