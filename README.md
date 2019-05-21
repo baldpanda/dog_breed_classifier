@@ -1,8 +1,9 @@
 # Dog Breed Classifier
 
-The aim of this repository is to gain some familiarity with TensorFlow and use deep learning to build a model which performs well at identifying the breed of a dog, given an image of a dog.
+The aim of this repository is to gain some familiarity with TensorFlow and use deep learning to build a model which performs well at identifying the breed of a dog from an image.
+The dog breed classifier problem is defined in Kaggle, where the data is also given.
 
-Kaggle Competition- https://www.kaggle.com/c/dog-breed-identification
+Kaggle competition- https://www.kaggle.com/c/dog-breed-identification
 
 Data available- https://www.kaggle.com/c/dog-breed-identification/data
 
