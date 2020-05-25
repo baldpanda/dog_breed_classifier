@@ -2,3 +2,4 @@
 /dog_breed_images
 .DS_STORE
 *.h5
+*.csv
