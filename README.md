@@ -1,4 +1,4 @@
-# Dog Breed Classifier
+# Dog Breed Classifier 
 
 The aim of this repository is to gain some familiarity with TensorFlow and use deep learning to build a model which performs well at identifying the breed of a dog, given an image of a dog.
 
