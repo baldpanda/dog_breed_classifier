@@ -1,0 +1,6 @@
+ipython==7.19.0
+jupyterlab==2.2.9
+matplotlib==3.3.2
+numpy==1.18.5
+pandas==1.1.4
+tensorflow==2.3.1
